@@ -52,5 +52,5 @@ The purpose of this repository is to understand and practice SQL queries, databa
 
 ---
 
-**Author:** Aryan  
+**Author:** Aryan Kumar Sahu
 **Project:** DBMS Practical Experiments
